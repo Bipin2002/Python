@@ -1,0 +1,17 @@
+-------------------------------------------------
+        Sunway Bhatbhatini System
+           Maitidevi, Kathmandu
+-------------------------------------------------
+Customer name: BIpin
+Id no. : A2689
+Customer Address: ktm
+-------------------------------------------------
+|Item price 	|Quantity 		|Total Amount	|
+-------------------------------------------------
+| 1200 			| 2 			| 2400 			|
+| 3000 			| 1 			| 3000 			|
+-------------------------------------------------
+Mr/Mrs. BIpin, you have purchased 2 items whose
+total price is 5400 and discount is 425.0 with
+discount rate 10%, After discount amount is 4975.0
+-------------------------------------------------
